@@ -1,0 +1,2 @@
+# yiddish-cryptics
+Yiddish Cryptics
